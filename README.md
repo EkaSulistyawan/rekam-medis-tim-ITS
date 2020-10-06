@@ -9,5 +9,6 @@ Copyright to:
 1. Nashita Khusnul Mutmainnah
 2. Ainun Arsyi Sahifa
 3. I Gede Eka Sulistyawan
+
 Teknik Biomedik
 Institut Teknologi Sepuluh Nopember
