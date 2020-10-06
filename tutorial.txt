@@ -1,0 +1,18 @@
+dependencies
+1. ganache/ganache-cli
+2. ipfs daemon
+3. npm run dev
+
+Cara penggunaan
+1. Di kontrak provider_account ditambahin akun pertama ganache, kalau engga brrti ga dapet akses sebagai provider
+2. truffle compile
+3. truffle migrate
+
+4. Copy ABI di dalem medical_record.JSON ke ./src/app/medical_record.module.js
+5. copy address contract medical_record ke  ./src/app/medical_record.module.js
+
+6 copy abi di provider_account.json ke ./src/app/provider_account.module.js
+7 copy adress contract provider_account ke ./src/app/provider_account.module.js
+
+Have fun!
+note: diskusiin aja klo bingung hehe :3
