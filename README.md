@@ -10,5 +10,8 @@ Copyright to:
 2. Ainun Arsyi Sahifa
 3. I Gede Eka Sulistyawan
 
+Supervisor
+Sigit Anggraito, Telkom DDS
+
 Teknik Biomedik
 Institut Teknologi Sepuluh Nopember
